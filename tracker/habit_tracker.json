@@ -1,0 +1,10 @@
+{
+  "energy_audit": {
+    "done": false,
+    "notes": ""
+  },
+  "confidence_pulse_check": {
+    "score": 0,
+    "done": false
+  }
+}
